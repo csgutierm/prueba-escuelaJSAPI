@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoList</string>
+    <string name="asset_image">asset image</string>
+    <string name="username">usuario</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="your_username">tu nombre</string>
+</resources>
